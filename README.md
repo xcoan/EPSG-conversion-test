@@ -1,3 +1,12 @@
+#EPSG Conversion Test
+-----------------
+
+A Node/Express app to test the ability to convert map points from EPSG:2965 to a Google-maps friendly format.
+
+Made using (HyperDev)[http://hyperdev.com] (more infor below)
+
+
+
 Welcome to the HyperDev BETA
 ============================
 
@@ -23,3 +32,5 @@ Made by Fog Creek
 -----------------
 
 \ ゜o゜)ノ
+
+
