@@ -3,7 +3,7 @@
 
 A Node/Express app to test the ability to convert map points from EPSG:2965 to a Google-maps friendly format.
 
-Made using (HyperDev)[http://hyperdev.com] (more infor below)
+Made using [HyperDev](http://hyperdev.com) (more info below)
 
 
 
